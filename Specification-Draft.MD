@@ -64,6 +64,7 @@ Read requests are open.  Write requests will require an API key (set per publish
 Returns a list of all applications
 
 Example:
+```
 Request:
 GET /apps
 Response:
@@ -78,6 +79,7 @@ Response:
   manifest_url: "http://linktomanifest"
   },...
 ]
+```
 
 Future tasks
 * Make the path searchable (by name, owner, etc.)
