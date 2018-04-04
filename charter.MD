@@ -1,4 +1,5 @@
-*proposed charter*
+
+*working draft*
 
 ## Summary
 The primary purpose of this working group is to produce industry standards for App Directories that can perform the following functions:
@@ -20,7 +21,6 @@ Key points about the scope of the FDC3 App Directory standards:
 The App Directory working group will be focused on delivering the following standards:
 
 * App Directory schema & API requirements
-* Manifest for FDC3 compliant applications
 * App name resolution
 * App launch resolution
 * App directory federation
